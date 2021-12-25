@@ -3,7 +3,7 @@
 
 - ⛳️ I’m currently living in Shanghai
 - 🔭 I’m currently working on Tezign AI lab
-- 🌱 I’m currently learning cloud native architecture
+- 📚 I’m currently learning cloud native architecture
 - 😘 I'm interested in:
   - 🖋 Write blogs
   - 💻 Programming
@@ -13,7 +13,7 @@
 
 我是 Anoyi，一位懒散的程序员，喜欢出去玩，有好玩的记得叫上我~
 
-## 👑 Github Stats
+## 🌱 Github Stats
 
 [![AnoyiX's github stats](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)](https://github.com/AnoyiX)
 
@@ -28,7 +28,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnoyiX&repo=spring-security-demos&theme=tokyonight)](https://github.com/AnoyiX/spring-security-demos)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnoyiX&repo=grpc-python&theme=onedark)](https://github.com/AnoyiX/grpc-python)
 
-## 🍄 Programing Languages
+## 🌿 Programing Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoyiX&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
