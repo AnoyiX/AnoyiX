@@ -11,7 +11,7 @@
   - 📷 take photos
   - 🍭 Tasting delicious food
 
-#### 我是 Anoyi，一位比较懒散的程序员，喜欢出去玩！ 
+我是 Anoyi，一位懒散的程序员，喜欢出去玩，有好玩的记得叫上我~
 
 ## 👑 Github Stats
 
