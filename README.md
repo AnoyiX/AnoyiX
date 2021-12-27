@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on Tezign AI lab
 - 📚 I’m currently learning cloud native architecture
 - 😘 I'm interested in:
-  - 🖋 Write blogs
+  - 🖋 Writing blogs
   - 💻 Programming
   - 🏂 Travelling
-  - 📷 take photos
+  - 📷 Taking photos
   - 🍭 Tasting delicious food
 
 我是 Anoyi，懒散的程序员，喜欢玩，有好玩的记得叫上我 ~
