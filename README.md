@@ -19,7 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🍀 Open Projects
+## 🍀 Open Sources
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AnoyiX&repo=anoyi&theme=radical)](https://github.com/AnoyiX/anoyi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tezignlab&repo=fastlab&theme=radical)](https://github.com/tezignlab/fastlab)
