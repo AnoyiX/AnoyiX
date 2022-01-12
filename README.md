@@ -1,10 +1,10 @@
 
 ## 👋 Hi there 
 
-- ⛳️ I’m currently living in Shanghai
-- 🔭 I’m currently working on Tezign AI lab
-- 📚 I’m currently learning cloud native architecture
-- 😘 I'm interested in:
+- ⛳️ Shanghai
+- 🔭 Tezign AI lab
+- 📚 Cloud Native Scholars
+- 😘 Hobbies
   - 🖋 Writing blogs
   - 💻 Programming
   - 🏂 Travelling
