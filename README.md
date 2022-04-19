@@ -2,16 +2,14 @@
 ## 👋 Hi there 
 
 - ⛳️ Shanghai
-- 🔭 Tezign AI lab
 - 📚 Cloud Native Scholars
 - 😘 Hobbies
-  - 🖋 Writing blogs
+  - 🖋 Writing
   - 💻 Programming
   - 🏂 Travelling
   - 📷 Taking photos
-  - 🍭 Tasting delicious food
 
-我是 Anoyi，懒散的程序员，喜欢玩，有好玩的记得叫上我 ~
+我是 Anoyi，喜欢玩，有好玩的记得叫上我 ~
 
 ## 🌱 Github Stats
 
