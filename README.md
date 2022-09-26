@@ -20,9 +20,9 @@ I publish open source software here. All the repositories are at your disposal.
 [![](https://img.shields.io/badge/Desktop%20Computer-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 [![](https://img.shields.io/badge/DJI%20MINI%202-black?style=flat-square&logoColor=white)](https://www.dji.com/cn/mini-2?site=brandsite&from=nav)
 
-### 📚 All Skills
+### 📚 Skills
 
-![](https://icons.anoyi.com/?cols=15&icons=git,github,gitlab,twitter,stackoverflow,vercel,figma,vscode,idea,vim,atom,javascript,typescript,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,fastapi,flask,markdown,regex,aws,azure,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins,warp,photoshop)
+![](https://icons.anoyi.com/?cols=15&icons=docker,kubernetes,prometheus,nginx,git,twitter,fastapi,atom,javascript,typescript,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,flask,markdown,regex,aws,azure,linux,bash,ansible,grafana,jenkins,warp,stackoverflow,vercel,figma,vscode,idea,vim,github,gitlab,photoshop)
 
 ### 💻 Commit Graph
 
