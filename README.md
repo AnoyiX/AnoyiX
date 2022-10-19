@@ -22,7 +22,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 📚 Skills
 
-![](https://icons.anoyi.com/?cols=15&icons=docker,kubernetes,prometheus,nginx,git,twitter,fastapi,atom,javascript,typescript,html,css,c,bootstrap,jquery,nodejs,python,java,react,vue,tailwind,spring,nextjs,maven,mongo,redis,mysql,flask,markdown,regex,aws,azure,linux,bash,ansible,grafana,jenkins,warp,stackoverflow,vercel,figma,vscode,idea,vim,github,gitlab,photoshop)
+![](https://dev-icons.deta.dev/?iconBgColor=f8fafc&icons=git,jquery,javascript,mongodb,postman,prometheus,typescript,figma,vscode,warp,bash,python,java,c,html5,css3,linux,docker,kubernetes,fastapi,flask,grafana,mysql,redis,nextjs,nginx,nodejs,react,spring,tailwindcss,terraform,consul)
 
 ### 💻 Commit Graph
 
