@@ -26,7 +26,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 💻 Commit Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=AnoyiX&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=AnoyiX&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
 ### 😜 Commit Stats
 
