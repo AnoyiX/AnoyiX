@@ -30,13 +30,13 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 😜 Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=radical&row=1)
 
 ### 🦁 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
 
 
 ### 💸 Donate
