@@ -12,7 +12,6 @@ I publish open source software here. All the repositories are at your disposal.
 [![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
 [![](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnoyiX)
 
-
 ### 📱 Devices
 
 [![](https://img.shields.io/badge/-Macbook%20Pro%20M1-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro-13/)
@@ -24,10 +23,6 @@ I publish open source software here. All the repositories are at your disposal.
 
 ![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=git,jquery,javascript,mongodb,postman,prometheus,typescript,figma,vscode,warp,bash,python,java,c,html5,css3,linux,docker,kubernetes,fastapi,flask,grafana,mysql,redis,nextjs,nginx,nodejs,react,spring,tailwindcss,terraform,consul)
 
-### 💻 Commit Graph
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=AnoyiX&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
 ### 😜 Commit Stats
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
@@ -37,15 +32,3 @@ I publish open source software here. All the repositories are at your disposal.
 ### 🦁 Top Languages
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
-
-
-### 💸 Donate
-
-🔸 Bitcoin: `KRgXmYvzxkNgd5Kt9iEoRe4szXW8Ag4yc`
-
-🔸 Ethereum: `0x80DF1CaB786398503f991AAF3B48Be06044CF42F`
-
-```
-🙏  I will be very, very happy even from a small donation.
-```
-  
