@@ -2,7 +2,7 @@
 
 I publish open source software here. All the repositories are at your disposal.
 
-### 🌏 Some Links
+### 🌏 Social Media
 
 [![](https://img.shields.io/badge/My%20Website-black?style=flat-square&logo=vercel&logoColor=white)](https://anoyi.com/)
 [![](https://img.shields.io/badge/Github-black?style=flat-square&logo=github&logoColor=white)](https://github.com/AnoyiX/)
@@ -16,8 +16,8 @@ I publish open source software here. All the repositories are at your disposal.
 
 [![](https://img.shields.io/badge/-Macbook%20Pro%20M1-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro-13/)
 [![](https://img.shields.io/badge/-iPhone%2013%20Pro-black?style=flat-square&logo=apple)](https://www.apple.com/iphone-13-pro/)
-[![](https://img.shields.io/badge/Desktop%20Computer-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
-[![](https://img.shields.io/badge/DJI%20MINI%202-black?style=flat-square&logoColor=white)](https://www.dji.com/cn/mini-2?site=brandsite&from=nav)
+[![](https://img.shields.io/badge/Win%2011-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
+[![](https://img.shields.io/badge/DJI%20MINI%202-black?style=flat-square&logo=dji&logoColor=white)](https://www.dji.com/cn/mini-2?site=brandsite&from=nav)
 
 ### 📚 Skills
 
