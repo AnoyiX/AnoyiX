@@ -32,3 +32,7 @@ I publish open source software here. All the repositories are at your disposal.
 ### 🦁 Top Languages
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnoyiX&layout=compact&theme=dark)
+
+### 🌲 Views
+
+![](http://profile-counter.glitch.me/AnoyiX/count.svg)
