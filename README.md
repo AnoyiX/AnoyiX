@@ -14,7 +14,7 @@ I publish open source software here. All the repositories are at your disposal.
 
 ### 📱 Devices
 
-[![](https://img.shields.io/badge/-Macbook%20Pro%20M1-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro-13/)
+[![](https://img.shields.io/badge/-Macbook%20Pro%20M3-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro/)
 [![](https://img.shields.io/badge/-iPhone%2016%20Pro-black?style=flat-square&logo=apple)](https://www.apple.com/iphone-16-pro/)
 [![](https://img.shields.io/badge/Win%2011-black?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/)
 
